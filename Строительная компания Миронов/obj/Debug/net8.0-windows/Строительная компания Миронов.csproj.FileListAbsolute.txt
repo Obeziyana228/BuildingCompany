@@ -1,0 +1,28 @@
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Строительная компания Миронов.csproj.AssemblyReference.cache
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Glavnoe.g.cs
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Строительная компания Миронов_MarkupCompile.cache
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Строительная компания Миронов_MarkupCompile.lref
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Huiznaet.g.cs
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\bin\Debug\net8.0-windows\Строительная компания Миронов.exe
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\bin\Debug\net8.0-windows\Строительная компания Миронов.deps.json
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\bin\Debug\net8.0-windows\Строительная компания Миронов.runtimeconfig.json
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\bin\Debug\net8.0-windows\Строительная компания Миронов.dll
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\bin\Debug\net8.0-windows\Строительная компания Миронов.pdb
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\bin\Debug\net8.0-windows\Wpf.Ui.dll
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Glavnoe.baml
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Huiznaet.baml
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Строительная компания Миронов.g.resources
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Строительная компания Миронов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Строительная компания Миронов.AssemblyInfoInputs.cache
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Строительная компания Миронов.AssemblyInfo.cs
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Строительная компания Миронов.csproj.CoreCompileInputs.cache
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Строительная компания Миронов.sourcelink.json
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\________.A7CC6F1D.Up2Date
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Строительная компания Миронов.dll
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\refint\Строительная компания Миронов.dll
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Строительная компания Миронов.pdb
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\Строительная компания Миронов.genruntimeconfig.cache
+C:\Users\Ivantus\Desktop\че там Йоу\Строительная компания Миронов\obj\Debug\net8.0-windows\ref\Строительная компания Миронов.dll

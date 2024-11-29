@@ -16,24 +16,26 @@ namespace Строительная_компания_Миронов
     /// </summary>
     public partial class MainWindow : Window
     {
+        private static MainWindow _instance;
+
+        public static MainWindow Instance
+        {
+            get
+            {
+                if (_instance == null)
+                {
+                    _instance = new MainWindow();
+                }
+                return _instance;
+            }
+        }
+
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-
+            _instance = this;
+            framesidebar.NavigationService.Navigate(new Page2());
+            Framesidebar_2.NavigationService.Navigate(new HomePage());
         }
     }
 }

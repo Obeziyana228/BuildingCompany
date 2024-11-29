@@ -8,14 +8,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
-        <Frame x:Name="framesidebar" Content="" Margin="0,0,560,0" Background="#FF272757" NavigationUIVisibility="hidden"/>
-        <Frame x:Name="Framesidebar_2" Content="" Margin="240,0,0,0" NavigationUIVisibility="hidden" Background="#FF8686AC"/>
-        <Label Content="MagnificentStroy" Margin="8,24,574,367" Foreground="White" FontSize="22" FontFamily="Algerian"/>
-        <Button Content="▶ Учет и управление запасами" HorizontalAlignment="Left" Height="30" Margin="6,87,0,0" VerticalAlignment="Top" Width="220" HorizontalContentAlignment="Left" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}"/>
-        <Button Content="▶ Закупки и учет поставок" HorizontalAlignment="Left" Height="30" Margin="6,137,0,0" VerticalAlignment="Top" Click="Button_Click" Width="220" HorizontalContentAlignment="Left" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}"/>
-        <Button Content="▶ Продажа и резервирование мат-ов" HorizontalAlignment="Left" Height="30" Margin="6,187,0,0" VerticalAlignment="Top" Width="220" HorizontalContentAlignment="Left" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}"/>
-        <Button Content="▶ Инвентаризация и учет перемещений" HorizontalAlignment="Left" Height="30" Margin="6,237,0,0" VerticalAlignment="Top" Width="234" HorizontalContentAlignment="Left" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Click="Button_Click_1"/>
-        <Button Content="▶ Отчетность и аналитика" HorizontalAlignment="Left" Height="30" Margin="8,287,0,0" VerticalAlignment="Top" Width="220" HorizontalContentAlignment="Left" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}"/>
+        <Frame x:Name="framesidebar" Content="" Margin="0,0,560,0" Background="#FF272757" NavigationUIVisibility="hidden" Grid.ColumnSpan="2"/>
+        <Frame x:Name="Framesidebar_2" Content="" Margin="132,0,0,0" NavigationUIVisibility="hidden" Background="#FF8686AC" Grid.Column="1"/>
     </Grid>
 </Window>
